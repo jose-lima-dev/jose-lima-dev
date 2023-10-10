@@ -1,8 +1,8 @@
 ### Olá! Eu sou o José Soares.
 
-- 📚 Estudando Java & Python
-- 🔗 Acesse meu portfólio: https://jslimapro.wixsite.com/eujoselima
-- 📧 E-mail para contato: joselimaprofissional18@gmail.com
+- 📚 Studying Java, Python, HTML, CSS, Java Script and Typescript.
+- 🔗 Access my portfolio: https://jslimapro.wixsite.com/eujoselima
+- 📧 Contact email: joselimaprofissional18@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jose-lima-dev&theme=tokyonight" />
