@@ -1,4 +1,4 @@
-### Olá! Eu sou o José Soares.
+### "Hello World!" - I'm José Soares, software developer.
 
 - 📚 Studying Java, Python, HTML, CSS, Java Script and Typescript.
 - 🔗 Access my portfolio: https://jslimapro.wixsite.com/eujoselima
