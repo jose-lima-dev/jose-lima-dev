@@ -1,6 +1,7 @@
 "Hello World!" — I'm José Soares, a Web Developer.
 
 📚 Currently studying Java, Python, HTML, CSS, JavaScript and TypeScript
+
 🚀 Founder of Syver
 🔗 Site: https://syver.tec.br/
 📧 Contact: joselimaprofissional18@gmail.com
