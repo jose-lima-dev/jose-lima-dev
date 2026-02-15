@@ -4,10 +4,6 @@
 - 🔗 Access my portfolio: https://jslimapro.wixsite.com/eujoselima
 - 📧 Contact email: joselimaprofissional18@gmail.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jose-lima-dev&theme=tokyonight" />
-</a>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
