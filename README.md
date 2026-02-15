@@ -1,8 +1,9 @@
-### "Hello World!" - I'm José Soares, software developer.
+"Hello World!" — I'm José Soares, a Web Developer.
 
-- 📚 Studying Java, Python, HTML, CSS, Java Script and Typescript.
-- 🔗 Access my portfolio: https://jslimapro.wixsite.com/eujoselima
-- 📧 Contact email: joselimaprofissional18@gmail.com
+📚 Currently studying Java, Python, HTML, CSS, JavaScript and TypeScript
+🚀 Founder of Syver
+🔗 Site: https://syver.tec.br/
+📧 Contact: joselimaprofissional18@gmail.com
 
 
 <div style="display: inline_block"><br>
